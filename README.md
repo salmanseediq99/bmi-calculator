@@ -3,13 +3,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 A responsive BMI (Body Mass Index) Calculator built with React, allowing users to adjust their weight and height using sliders to calculate their BMI dynamically and determine their health status..
 
-### 'Features'
+### `Features`
 # Dynamic BMI Calculation: Automatically updates BMI value as the user adjusts weight and height.
 # Health Status Indicator: Displays whether the person is Underweight, Normal, Overweight, or Obese based on their BMI value.# 
 # Real-Time Display: Displays the calculated BMI and health status instantly.
 # User-Friendly Sliders: Intuitive range sliders for selecting weight and height.
 
-### 'Link to the App'
+### `Link to the App`
 (https://bmi-calc-app-fitness.netlify.app/)
 ### `npm start`
 
