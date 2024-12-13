@@ -2,9 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
+A responsive BMI (Body Mass Index) Calculator built with React, allowing users to adjust their weight and height using sliders and calculate their BMI dynamically.
 
 ### `npm start`
 
